@@ -184,7 +184,7 @@ After training, you can:
 
 ## 👨‍💻 Author
 
-**Adarsh Kumar**
+**Ashish Kumar**
 Machine Learning & Data Science Enthusiast
 
 ---
